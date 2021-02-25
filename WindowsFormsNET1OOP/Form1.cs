@@ -133,7 +133,7 @@ else break;
 {
                     Console.WriteLine("Error! 0 &lt; Diem Anh &lt; 10");
                     Console.Write("Nhap lai Diem Anh:");
-                }
+                }aádadasd
 else break;
             } while (diemAnh & lt; 10 || diemAnh & gt; 0);
         }
