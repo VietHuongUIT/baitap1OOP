@@ -1,2 +1,4 @@
 # baitap1OOP
-Hay lam
+B1:
+B2:
+CẢM ƠN
